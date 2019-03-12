@@ -1,2 +1,2 @@
-# Data-Structures-And-Algorithms-Labs
-IIIT-Delhi DSA Lab Solutions
+# IIIT-D FooBar
+FooBar Competitive Programming Questions
