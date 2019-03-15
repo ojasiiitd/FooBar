@@ -1,9 +1,3 @@
-/*input
-4 2
-11 20 26 30
-26 30
-11 30
-*/
 #include <bits/stdc++.h>
 using namespace std;
 
