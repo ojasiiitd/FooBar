@@ -1,2 +1,2 @@
-# IIIT-D FooBar
-FooBar Competitive Programming Questions
+# FooBar
+IIIT-D FooBar Competitive Programming Questions.
